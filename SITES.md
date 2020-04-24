@@ -91,4 +91,5 @@
 * [Ceso Adventures](https://ceso.github.io/)
 * [Efe Öge's Blog](https://efe.me)
 * [garrigos.cat Blog](https://garrigos.cat)
-* [ThePeachTimes](https://thepeachtimes.js.org/)
+* [ThePeachTimes] （https://thepeachtimes.js.org/）
+* [HEXOflyyi](http://hexo.flyyi.top/)
